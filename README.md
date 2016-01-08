@@ -1,10 +1,10 @@
 # airline-onedark.vim
 
-airline.vim theme for use with ([geoffharcourt/onedark.vim](https://github.com/geoffharcourt/one-dark.vim)) theme 
+airline.vim theme for use with [geoffharcourt/onedark.vim](https://github.com/geoffharcourt/one-dark.vim) 
 
 ![preview](preview.gif)
 
-** Currently, this theme works on only GUI Vim  **
+**Currently, this theme works on only GUI Vim**
 
 ## Install
 
