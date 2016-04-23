@@ -1,10 +1,17 @@
-# airline-onedark.vim
+**DEPRECATION NOTICE:** This plugin is depcreated. Recent version of [geoffharcourt/onedark.vim](https://github.com/geoffharcourt/one-dark.vim) 
+includes build-in airline theme. To use this do as follows:
 
-airline.vim theme for use with [geoffharcourt/onedark.vim](https://github.com/geoffharcourt/one-dark.vim) 
+```viml
+let g:airline_theme='onedark'
+```
+
+# airline-onedark.vim (DEPRECATED)
+
+airline.vim theme for use with [geoffharcourt/onedark.vim](https://github.com/geoffharcourt/one-dark.vim)
 
 ![preview](preview.gif)
 
-**Currently, this theme works on only GUI Vim**
+**This theme works on only GUI Vim**
 
 ## Install
 
